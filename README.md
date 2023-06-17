@@ -14,7 +14,7 @@ Given a train network represented by a list of routes with their respective dist
 ## Getting Started
 These instructions will help you get the project up and running.
 
-#### 1. Clone the repository: 'git clone https://github.com/dacesim/.git'
+#### 1. Clone the repository: 'git clone https://github.com/dacesim/DearlerOn-assessment.git'
 #### 2. Navigate to the project directory: 'cd trains'
 #### 3. To run the project, run the following command in the project directory: 'dotnet run'
 #### 4. To run the unit tests, execute the following command: 'dotnet test'
